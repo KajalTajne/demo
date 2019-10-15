@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/dbda/.cache/upstart/gnome-keyring-ssh.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/dbus.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/indicator-sound.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/window-stack-bridge.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/unity-settings-daemon.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/unity7.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/hud.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/ssh-agent.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/gpg-agent.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/upstart-event-bridge.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/update-notifier-release.log" 2019-10-14-7:35:41
+"/home/dbda/.cache/upstart/unity-panel-service.log" 2019-10-14-7:35:41
